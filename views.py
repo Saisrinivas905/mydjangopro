@@ -31,6 +31,7 @@
 #     serializer = CustomUserSerializer(friends, many=True)
     
 #     return Response(serializer.data)
+#welcome to python
 
 
 # class YourModelListView(generics.ListAPIView):
